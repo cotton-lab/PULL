@@ -1,0 +1,8 @@
+Snakemake(v3.13.3)
+docopt
+Biopython(v1.69) 
+Ucsc-fatotwobit 
+Ucsc-twobittofa 
+gcc_linux-64
+gxx_linux-64
+gfortran_linux-64
